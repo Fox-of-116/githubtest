@@ -1,0 +1,9 @@
+$mkdir poyo
+$cd poyo
+$git init
+$git add oppai
+$git commit -m "oppai added"
+$git push -u origin master
+
+to delete
+$git rm oppai
